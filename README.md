@@ -118,7 +118,7 @@ Mesmo sem assumir normalidade, o teste mostrou que clientes com e sem filhos tê
 1. Faça o clone do repositório.
 
     ```bash
-    git clone git@github.com:Rafael-L-Jorge/1-Analise_Perfil_Clientes_VarejoAlimentos.git
+    git clone git@github.com:Rafael-L-Jorge/1-Analise_Clientes_VarejoAlimentos.git
     ```
 
 2. Crie um ambiente virtual para o seu projeto utilizando o `conda`.
